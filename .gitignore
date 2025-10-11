@@ -1,1 +1,3 @@
 data/GoodReads_100k_books.csv
+data/*.csv
+notebooks/*.csv

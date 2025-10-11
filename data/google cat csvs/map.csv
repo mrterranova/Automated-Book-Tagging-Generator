@@ -1,28 +1,3 @@
-title,authors,publishedDate,categories,description,averageRating,textSnippet,language
-Kingston,[],N/A,['Co. of Burra'],"1 large map showing Kingston, Co. of Burra and bordered by Hallett, Mongolata, Ayers, Kooringa. Produced by the Central Plan Office for the Office of the Surveyer General, Dept. of Lands, Adelaide.",N/A,N/A,en
-中国地图集,['中国地图出版社'],1999,['Cartography'],N/A,N/A,N/A,zh-CN
-中华人民共和国地图集,['China. 中国人民解放军. 总参谋部. 测绘局'],2000,['Cartography'],分省图检索,N/A,N/A,zh-CN
-World Political Pacific Centered Map,['Maps Hema'],2013,['Map'],A new edition with a bright new cover and a full index on the back.,N/A,N/A,en
-Helping People Manage the Earth,[],2000,['Computer software'],N/A,N/A,N/A,en
-Maps,['Mary Ellen Taylor Lewis'],1944,['Map reading'],N/A,N/A,N/A,en
-The Goverment Run,['Theo Barker'],1987,['History'],N/A,N/A,N/A,en
-Environmental and Biological Community Characteristics of Headwater Streams in The Mississippi Alluvial Plain Ecoregion,['Christopher Laskodi T.'],2013,['MAP'],N/A,N/A,N/A,en
-Indian Agricultural Atlas,[],1971,[],N/A,N/A,N/A,en
-"1772 Map of Sunbury, Northumberland Co., Pa",[],N/A,['Map'],N/A,N/A,N/A,en
-"Sound of Harris, North Uist, Taransay and St Kilda",['Ordnance Survey'],2012-04,['Travel'],"Tough, durable and weatherproof, this title features maps that are covered in a lightweight protective plastic coating that can be written on, so that your favourite routes can be easily highlighted.",N/A,N/A,en
-"Post-Famine-Years Map of CAHIRCIVEEN County Kerry, 1851 Amd Miscellaneous Directories, Journals, Etc",[],N/A,['Ireland'],N/A,N/A,N/A,en
-Agroclimatic Atlas of Gujrat,[],1997,['Agriculture'],N/A,N/A,N/A,en
-Jewish History Atlas,['Martin Gilbert'],1969,['Jews'],N/A,N/A,N/A,en
-Military Map Reading for the New Army,"['W. Stanley Lewis', 'F. W. Morgan']",1941,['Distances'],N/A,N/A,N/A,en
-"Dublin, C. 840 - C. 1540","['Economic Institute for Research and Education (U.S.).', 'Friends of Medieval Dublin', 'Howard B. Clarke']",1978,['Dublin (Ireland)'],N/A,N/A,N/A,en
-Map of County Indicating Location of Cemeteries,[],N/A,['Columbia County (Pa.)'],N/A,N/A,N/A,en
-Frank W. Spaulding Papers,['Frank W. Spaulding'],1875,['Map'],"Relating to the Pride of Washoe mining claim at Virginia City, including a Ms. map. Also present are two Storey County tax deeds, a stock certificate in the Julian Oil Well Pump Company, a withdrawal card, 1917, from the Western Federation of Miners, Virginia City Union No. 46, and three letters on mining matters, two from the Jay Gould Consolidated Mining Company, 1895, 1897.",N/A,N/A,en
-1885 Map of North Carolina with Alphabetical List of Towns & Counties,['Gold Bug'],1992,['Map'],N/A,N/A,N/A,en
-1885 Map of Texas with Alphabetical List of Towns & Counties,['Gold Bug'],1992,['Map'],N/A,N/A,N/A,en
-"""By the Waters of Minnetonka""",[],2000,['Guide'],N/A,N/A,N/A,en
-1885 Map of Dakota Territory with Alphabetical List of Towns & Counties,['Gold Bug'],1992,['Dakota Territory'],N/A,N/A,N/A,en
-1885 Map of Kentucky & Tennessee with Alphabetical List of Towns & Counties,['Gold Bug'],1992,['Map'],N/A,N/A,N/A,en
-Land Atlas and Plat Book,[],1982,['Map'],N/A,N/A,N/A,en
-"Randolph County, North Carolina Historical Documentation",[],N/A,['Map'],N/A,N/A,N/A,en
-County Council of Ross and Cromarty Development plan,['County Council of Ross and Cromarty'],1975,['Isle of Lewis'],N/A,N/A,N/A,en
-Map of Chowan University,[],2016,['Chowan University'],N/A,N/A,N/A,en
+version https://git-lfs.github.com/spec/v1
+oid sha256:eff3421fa7b03b21b3f7a7f4052f96caf0a5ebb8c6705732857495489ac08fb5
+size 3497

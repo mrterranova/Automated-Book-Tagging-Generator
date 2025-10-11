@@ -1,8 +1,3 @@
-title,authors,publishedDate,categories,description,averageRating,textSnippet,language
-"Machine Design, Construction and Drawing",['Henry John Spooner'],1913,['Machine design'],N/A,N/A,N/A,en
-Handbuch der Energiewirtschaft,['Hans Witte'],1957,['Mechanical'],N/A,N/A,N/A,de
-Engineering Statics,"['Daniel W. Baker', 'William Haynes']",2020,['Engineering'],N/A,N/A,N/A,en
-Basic Blueprint Reading,['Ric Costin'],2019,['Engineering'],N/A,N/A,N/A,en
-Theory and Design for Mechanical Measurements,"['Richard S. Figliola', 'Donald E. Beasley']",1995,['Measurement'],"This text integrates the theory of measurements, experimental planning and instrument theory to provide a fundamental background to engineering measurement. It contains a thorough treatment of uncertainty analysis, an introduction to statistics, including finite statistics, a new chapter on sampling concepts and data acquisition systems, and revised material on force, torque and power measurements.",N/A,N/A,en
-Interpretation of Metal Fab Drawings,['Cameren Moran'],2021,['Engineering'],N/A,N/A,N/A,en
-Introduction to Communication Systems,['Victor S. Frost'],2021,['Electrical engineering'],N/A,N/A,N/A,en
+version https://git-lfs.github.com/spec/v1
+oid sha256:485af58ac388e1c9e674c8d0478e05e2cf5a9020fca1d6f7f88e35d4e23ad3b4
+size 1168
